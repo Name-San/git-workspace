@@ -1,3 +1,3 @@
-## Welcome to Git Space by Eman
+## Welcome to Git Space
 
 # This is my upgrade
