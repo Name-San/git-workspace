@@ -1,3 +1,3 @@
-## Welcome to Git Space by Eren
+## Welcome to Git Space
 
 # this is my awesome features
